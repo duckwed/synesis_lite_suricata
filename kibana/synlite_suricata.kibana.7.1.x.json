@@ -3237,7 +3237,7 @@
     "_type": "visualization",
     "_source": {
       "title": "Suricata: Logo",
-      "visState": "{\"title\":\"Suricata: Logo\",\"type\":\"markdown\",\"params\":{\"fontSize\":12,\"markdown\":\"[![sýnesis™ Lite for Suricata](http://www.koiossian.com/public/synesis_logo.svg)](http://www.koiossian.com)\",\"openLinksInNewTab\":false},\"aggs\":[]}",
+      "visState": "{\"title\":\"Suricata: Logo\",\"type\":\"markdown\",\"params\":{\"fontSize\":12,\"markdown\":\"[![zhaogang™ for Suricata](http://test.com)\",\"openLinksInNewTab\":false},\"aggs\":[]}",
       "uiStateJSON": "{}",
       "description": "",
       "version": 1,
